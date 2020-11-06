@@ -10,7 +10,7 @@ Lots of students struggle in creating their first PR. They try somewhat and leav
 
 You can look at the issues [here](https://github.com/geekyvyas/GithubBeginners/issues) and choose which one you would like to work on! 
 
-## Hacktoberfest 2020 Special
+## Chandigarh University 2020 Special
 
 - We will be posting a problem daily at 11 AM related to all languages like HTML, Python, JavaScript, JAVA, C++, Android, etc till 30th Oct.
 
