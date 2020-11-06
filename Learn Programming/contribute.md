@@ -31,10 +31,10 @@ If you are assigend for a task, create a folder with name_of_language and create
 
 ## Courses (minimum 1)
 
-- [courses like course](link for the course) Course by name of organisation 
+- [courses like coursera](link for the course) Course by name of organisation 
 
-- [courses like course](link for the course) Course by name of organisation 
+- [courses like coursera](link for the course) Course by name of organisation 
 
-- [courses like course](link for the course) Course by name of organisation 
+- [courses like coursera](link for the course) Course by name of organisation 
 
-- [courses like course](link for the course) Course by name of organisation 
+- [courses like coursera](link for the course) Course by name of organisation 
