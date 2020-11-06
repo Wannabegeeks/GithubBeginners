@@ -18,7 +18,7 @@ You can look at the issues [here](https://github.com/geekyvyas/GithubBeginners/i
 
 - Person have time till 8 PM to submit, if fails to do so we will assign to someone else.
 
-- Make sure you take from latest code and don't edit any other file. Save your file by name Date.(language extension) like 3rdOct.java, 3rdOct.py, 7thOct.js
+- Make sure you take from latest code and don't edit any other file. Save your file by name Date.(language extension) like 3rdNov.java, 3rdNov.py, 7thNov.js
 
 If you wish to stay updated, join our Open Source Community Channel on Discord [here](https://discord.gg/tvkwnZy2cV)
 
