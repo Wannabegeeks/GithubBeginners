@@ -1,7 +1,7 @@
 ![Issues](https://img.shields.io/github/issues/geekyvyas/GithubBeginners)
 ![Stars GitHub](https://img.shields.io/github/stars/geekyvyas/GithubBeginners)
 ![Forks](https://img.shields.io/github/forks/geekyvyas/GithubBeginners)
-[![project chat](https://img.shields.io/badge/Discord-join--chat-brightgreen)](https://discord.gg/vDnWX5uhmA)
+[![project chat](https://img.shields.io/badge/Discord-join--chat-brightgreen)](https://discord.gg/tvkwnZy2cV)
 
 ## Make-pull-request
 It's an initiative by Chandigarh University students to help create more awareness about Open Source and help introduce many more students to the benefits of GitHub. We will organize lots of events, this is our humble step.
@@ -20,7 +20,7 @@ You can look at the issues [here](https://github.com/geekyvyas/GithubBeginners/i
 
 - Make sure you take from latest code and don't edit any other file. Save your file by name Date.(language extension) like 3rdOct.java, 3rdOct.py, 7thOct.js
 
-If you wish to stay updated, join our Open Source Community Channel on Discord [here](https://discord.gg/vDnWX5uhmA)
+If you wish to stay updated, join our Open Source Community Channel on Discord [here](https://discord.gg/tvkwnZy2cV)
 
 ## Programming Languages 
 This Repository cotains of following programming languages
