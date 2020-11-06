@@ -1,3 +1,12 @@
+## How to contribute to this project
+Here are 3 quick and painless ways to contribute to this project:
+
+* Add your name to the `CONTRIBUTORS.md` file
+* Add a profile page to the `profiles` directory
+* Create a simple "Hello, World" script in a language of your choice
+
+Choose one or all 3, make a pull request for your work and wait for it to be merged!
+
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
