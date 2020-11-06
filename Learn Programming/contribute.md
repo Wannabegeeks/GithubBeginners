@@ -1,5 +1,5 @@
 ## Make-pull-request
-If you are assigend for a task, add proper section just like given bellow.
+If you are assigend for a task, create a folder with name_of_language and create a README.md file and add proper section just like given bellow in it.
 
 # Topic Name
 
