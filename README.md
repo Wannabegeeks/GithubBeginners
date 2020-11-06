@@ -39,4 +39,4 @@ Here are 3 quick and painless ways to contribute to this project:
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
-If you are a newbie then click [here](https://github.com/geekyvyas/GithubBeginners/FirstTimers/README.md)
+If you are a newbie then click [here](https://github.com/geekyvyas/GithubBeginners/tree/main/FirstTimers)
