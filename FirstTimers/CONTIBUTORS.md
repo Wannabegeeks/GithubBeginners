@@ -1,4 +1,4 @@
-#### Name: Vallenain
- - Place: Lyon, France
- - Bio: Software engineer. Graduated from INSA Lyon.
- - GitHub: [Vallenain](https://github.com/Vallenain)
+#### Name: Yajush Vyas
+ - Place: New Delhi, Delhi
+ - Bio: Geek LOL!!
+ - GitHub: [Yajush](https://github.com/geekyvyas)
