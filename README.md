@@ -3,6 +3,8 @@
 ![Forks](https://img.shields.io/github/forks/geekyvyas/GithubBeginners)
 [![project chat](https://img.shields.io/badge/Discord-join--chat-brightgreen)](https://discord.gg/tvkwnZy2cV)
 
+# REPOSITORY MAINTAINER : ![YAJUSH VYAS](https://github.com/geekyvyas) 
+
 ## Make-pull-request
 It's an initiative by Chandigarh University students to help create more awareness about Open Source and help introduce many more students to the benefits of GitHub. We will organize lots of events, this is our humble step.
 
