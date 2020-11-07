@@ -17,3 +17,8 @@
  - Place: Muzaffarnagar,UP
  - Bio: Coder
  - GitHub: [Vansh](https://github.com/vansh-arora18)
+ 
+ #### Name: Amisha Khanna
+- Place: Karnal, Haryana
+- Bio: Learner
+- GitHub: [Amisha Khanna](https://github.com/amishakhanna)
