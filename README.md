@@ -25,7 +25,7 @@ You can look at the issues [here](https://github.com/geekyvyas/GithubBeginners/i
 If you wish to stay updated, join our Open Source Community Channel on Discord [here](https://discord.gg/tvkwnZy2cV)
 
 ## Programming Languages 
-This Repository cotains of following programming languages
+This Repository contains of following programming languages
   -  HTML : 58.8%
   -  Python : 12.0%
   -  Java : 13.2% 
