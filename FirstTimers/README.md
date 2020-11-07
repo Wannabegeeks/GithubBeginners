@@ -97,9 +97,9 @@ Your School
 
 - Some Things You Like
 
-### Development
+### Year of College
 
-- Inventor of the My Pillow
+- Your year
 
 ### Projects
 
