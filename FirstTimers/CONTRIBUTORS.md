@@ -8,10 +8,10 @@
  - Bio: Geek LOL!!
  - GitHub: [Navisha](https://github.com/navishapunia)
  
- #### Name: NONAME
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+ #### Name: Anshul Kalia
+- Place: Jammu, J&K
+- Bio: Newbie
+- GitHub: [AnshulOP](https://github.com/AnshulOP)
 
 #### Name: Vansh Arora
  - Place: Muzaffarnagar,UP
