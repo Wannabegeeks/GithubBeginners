@@ -7,28 +7,62 @@ Here are 3 quick and painless ways to contribute to this project:
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
-## Getting started
-* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Clone your fork down to your local machine
+## A Guide to Get Started
 
-```markdown
-git clone https://github.com/your-username/GithubBeginners.git
-```
+1. Check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/) or this free how-to tutorial at http://makeapullrequest.com/.
 
-* Create a branch
+2. On the [GitHub page for this repository](https://github.com/geekyvyas/GithubBeginners), click on the Button "Fork".
 
-```markdown
-git checkout -b branch-name
-```
+   ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-* Make your changes (choose from any task below)
-* Commit and push
+3. Clone _your forked repository_ to your computer:
 
-```markdown
-git add .
-git commit -m 'Commit message'
-git push origin branch-name
-```
+   ![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
+
+    For example, run this command inside your terminal:
+
+    ```bash
+    git clone https://github.com/<your-github-username>/start-here-guidelines.git
+    ```
+
+    **Replace \<your-github-username\>!**
+
+    Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+
+
+4. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
+
+    ```bash
+    git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
+    git pull upstream master
+    ```
+
+    If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
+
+5. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
+
+6. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
+
+    ```bash
+    git add CONTRIBUTORS.md
+    git commit -m "Add <your-github-username>"
+    ```
+
+    **Replace \<your-github-username\>!**
+
+7. Push your changes _to your repository_:
+
+    ```bash
+    git push origin master
+    ```
+
+8. Go to the GitHub page of _your fork_, and make a pull request:
+
+    ![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
+
+    Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+9. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
 
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval!
