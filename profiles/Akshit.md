@@ -10,7 +10,7 @@ Chandigarh University
 
 ### Interests
 
-- coding
+coding
 
 ### Profile Link
 
