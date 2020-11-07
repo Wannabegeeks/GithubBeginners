@@ -22,3 +22,8 @@
 - Place: Karnal, Haryana
 - Bio: Learner
 - GitHub: [Amisha Khanna](https://github.com/amishakhanna)
+
+ #### Name: Akshit Jindal
+- Place: Delhi
+- Bio: Learner
+- GitHub: [Akshit](https://github.com/akshityoyo)
