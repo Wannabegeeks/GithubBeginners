@@ -8,12 +8,22 @@
  - Bio: Geek LOL!!
  - GitHub: [Navisha](https://github.com/navishapunia)
  
- #### Name: NONAME
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+ #### Name: Anshul Kalia
+- Place: Jammu, J&K
+- Bio: Newbie
+- GitHub: [AnshulOP](https://github.com/AnshulOP)
 
 #### Name: Vansh Arora
  - Place: Muzaffarnagar,UP
  - Bio: Coder
  - GitHub: [Vansh](https://github.com/vansh-arora18)
+ 
+ #### Name: Amisha Khanna
+- Place: Karnal, Haryana
+- Bio: Learner
+- GitHub: [Amisha Khanna](https://github.com/amishakhanna)
+
+ #### Name: Akshit Jindal
+- Place: Delhi
+- Bio: Learner
+- GitHub: [Akshit](https://github.com/akshityoyo)
