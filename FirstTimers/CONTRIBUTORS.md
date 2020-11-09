@@ -27,3 +27,8 @@
 - Place: Delhi
 - Bio: Learner
 - GitHub: [Akshit](https://github.com/akshityoyo)
+
+#### Name: Garima Saini
+ - Place: Mohali, Punjab
+ - Bio: Dreamer!
+ - GitHub: [Garima](https://github.com/garimasaini16)
