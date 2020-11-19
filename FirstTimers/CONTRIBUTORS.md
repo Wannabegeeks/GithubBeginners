@@ -32,3 +32,8 @@
  - Place: Mohali, Punjab
  - Bio: Dreamer!
  - GitHub: [Garima](https://github.com/garimasaini16)
+
+ #### Name:Aditya Narayan Sharma
+ -Place:Lucknow,Uttar Pradesh
+ -Bio:AI,ML and Data Science Enthusiast
+ -Github:[Aditya](https://github.com/Adinarayanreloaded)
