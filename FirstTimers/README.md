@@ -11,7 +11,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 
 1. Check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/) or this free how-to tutorial at http://makeapullrequest.com/.
 
-2. On the [GitHub page for this repository](https://github.com/geekyvyas/GithubBeginners), click on the Button "Fork".
+2. On the [GitHub page for this repository](https://github.com/Wannabegeeks/GithubBeginners), click on the Button "Fork".
 
    ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
@@ -33,7 +33,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 4. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream https://github.com/geekyvyas/GithubBeginners.git
+    git remote add upstream https://github.com/Wannabegeeks/GithubBeginners.git
     git pull upstream master
     ```
 
