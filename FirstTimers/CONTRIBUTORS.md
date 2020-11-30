@@ -37,3 +37,8 @@
  - Place: Lucknow,Uttar Pradesh
  - Bio: AI,ML and Data Science Enthusiast
  - Github: [Aditya](https://github.com/Adinarayanreloaded)
+
+#### Name: Parth Gandhi
+ - Place: Delhi
+ - Bio: nothing
+ - Github: [Parth](https://github.com/iparth36i)
