@@ -42,3 +42,8 @@
  - Place: Delhi
  - Bio: nothing
  - Github: [Parth](https://github.com/iparth36i)
+
+#### Name: Akshay Kumar
+ - Place: Bangalore
+ - Bio: Student at SRM Institute of Science and Technology
+ - Github: [Akshay](https://github.com/AXE02)
