@@ -46,4 +46,4 @@
 #### Name: Akshay Kumar
  - Place: Bangalore
  - Bio: Student at SRM Institute of Science and Technology
- - Github: [Akshay](https://github.com/AXE02)
+ - Github: [AXE02](https://github.com/AXE02)
